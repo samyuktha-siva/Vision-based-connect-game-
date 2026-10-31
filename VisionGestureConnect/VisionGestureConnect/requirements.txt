@@ -1,0 +1,7 @@
+# Tested together on Python 3.12 (Linux). Use Python 3.10, 3.11 or 3.12 on Windows.
+# MediaPipe 0.10.21 does not support Python 3.13 yet.
+pygame==2.6.1
+mediapipe==0.10.21
+opencv-contrib-python==4.11.0.86
+numpy==1.26.4
+pytest>=8.0
